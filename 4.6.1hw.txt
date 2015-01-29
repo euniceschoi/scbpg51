@@ -1,0 +1,12 @@
+4.6.1 exercises
+
+1. 14 hellos
+2. 3 hellos
+3. 4 hellos
+4. 5 hellos
+5 15 hellos 
+#within range of 7 around the integer 31 and also one hello for at 18
+6. foo is a function parameter. user will define the variable when calling 
+the function in which foo is in.
+7. recursion: method in coding in which a solution depends on multiple
+solutions of smaller instances
